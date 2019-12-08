@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">ecoMusicApp</string>
+  <string name="action_settings">Settings</string>
+  <string name="appwidget_text">This is Widget</string>
+  <string name="configure">It will start to play random songs from your device library</string>
+  <string name="add_widget">Add widget and Play</string>
+  <string name="title_description">This application will start to play random songs from your device library when you add the widget from device tool</string>
+</resources>

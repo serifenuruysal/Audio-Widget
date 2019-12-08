@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+  android:configure="com.soulkitchen.serifenuruysal.ecomusicapp.widget.EcoMusicAppWidgetConfigureActivity"
+  android:initialKeyguardLayout="@layout/eco_music_app_widget"
+  android:initialLayout="@layout/eco_music_app_widget"
+  android:minWidth="300dp"
+  android:minHeight="60dp"
+  android:minResizeWidth="340dp"
+  android:minResizeHeight="120dp"
+  android:previewImage="@drawable/ic_ecosia_icon"
+  android:resizeMode="horizontal|vertical"
+  android:updatePeriodMillis="1800000"
+  android:widgetCategory="home_screen|keyguard" />
